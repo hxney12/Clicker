@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker", "Clicker\Clicker.csproj", "{2965BB44-D99F-4112-BC7D-785B59B57DC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pic", "pic", "{C8E32F9E-E23F-4430-A304-0927FC042B3E}"
+	ProjectSection(SolutionItems) = preProject
+		Clicker\cat.jpg = Clicker\cat.jpg
+		Clicker\derevo.jpg = Clicker\derevo.jpg
+		Clicker\znak-exit.png = Clicker\znak-exit.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickerTest", "ClickerTest\ClickerTest.csproj", "{C0756F23-26A9-4DC3-8E32-6DD26134F036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2965BB44-D99F-4112-BC7D-785B59B57DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2965BB44-D99F-4112-BC7D-785B59B57DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2965BB44-D99F-4112-BC7D-785B59B57DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2965BB44-D99F-4112-BC7D-785B59B57DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0756F23-26A9-4DC3-8E32-6DD26134F036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0756F23-26A9-4DC3-8E32-6DD26134F036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0756F23-26A9-4DC3-8E32-6DD26134F036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0756F23-26A9-4DC3-8E32-6DD26134F036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57AB5F7-F29A-4791-AB41-54C6854DF07B}
+	EndGlobalSection
+EndGlobal
